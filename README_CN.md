@@ -14,6 +14,23 @@
 **Scanners Box**是一个集合github平台上的安全行业从业者自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，**同时该仓库只收录各位网友自己编写的一般性开源扫描器，类似awvs、nmap、w3af等知名扫描工具不收录**。
 
 ***
+入门指南
+https://wizardforcel.gitbooks.io/web-hacking-101/content/                  Web Hacking 101 中文版
+https://wizardforcel.gitbooks.io/asani/content/                            浅入浅出Android安全 中文版
+https://wizardforcel.gitbooks.io/lpad/content/                             Android 渗透测试学习手册 中文版
+https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/  Kali Linux Web渗透测试秘籍 中文版
+https://github.com/hardenedlinux/linux-exploit-development-tutorial        Linux exploit 开发入门
+https://www.gitbook.com/book/t0data/burpsuite/details                      burpsuite实战指南
+http://www.kanxue.com/?article-read-1108.htm=&winzoom=1                    渗透测试Node.js应用
+https://github.com/qazbnm456/awesome-web-security                          Web安全资料和资源列表
+https://sec-wiki.com/                                                      sec-wiki安全维基百科
+fuzz工具收集
+https://github.com/ivanfratric/winafl
+https://github.com/attekett/NodeFuzz
+https://github.com/google/oss-fuzz
+http://blog.topsec.com.cn/ad_lab/alphafuzzer/
+http://llvm.org/docs/LibFuzzer.html
+
 
 #### 子域名枚举扫描器或爆破工具
 
